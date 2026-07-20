@@ -13,7 +13,7 @@ I enjoy solving problems, learning new technologies, and creating real-world pro
 
 - 🎓 Junior Full-Stack Web Developer
 - 💻 Specialized in PHP & Laravel
-- 🌱 Currently improving my React and Angular skills
+- 🌱 Currently improving my React skills
 - 🚀 Looking for my first Software Engineer / Web Developer opportunity
 - 📍 Tripoli, Lebanon
 
