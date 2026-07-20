@@ -83,7 +83,7 @@ I enjoy solving problems, learning new technologies, and creating real-world pro
 📧 Email: YOUR_EMAIL
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/hussein-bukai-8802a73a9/
 
 🌐 Portfolio:
 Coming Soon 🚀
