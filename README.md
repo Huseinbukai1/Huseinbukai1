@@ -56,12 +56,6 @@ I enjoy solving problems, learning new technologies, and creating real-world pro
 - Food Ordering
 - Admin Dashboard
 
-🏨 **Hotel Management System**
-- Laravel
-- Room Booking
-- Customer Management
-- Admin Dashboard
-
 🛒 **E-Commerce Website**
 - Laravel
 - Shopping Cart
